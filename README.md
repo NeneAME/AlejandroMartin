@@ -41,5 +41,5 @@
 ## 📬 Contacto y Redes
 
 * 💼 **LinkedIn:** [Tu Nombre en LinkedIn](https://linkedin.com)
-* 📧 **Correo:** tuemail@ejemplo.com
+* 📧 **Correo:** alexjesy2005@gmail.com
 * 🐙 **GitHub:** [Alejandro Martín](https://github.com)
