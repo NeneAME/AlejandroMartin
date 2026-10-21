@@ -61,19 +61,3 @@ Si te interesa colaborar en proyectos de automatización, administración de red
     💼 LinkedIn: Alejandro Martín
 
     📧 Email: tuemail@ejemplo.com
-
-💡 Pasos para aplicarlo en tu GitHub:
-
-    Crea un repositorio en GitHub con el mismo nombre que tu usuario (ej. si tu usuario es alejandromartin, crea un repositorio público llamado alejandromartin).
-
-    Agrega un archivo README.md a la raíz de ese repositorio.
-
-    Copia y pega el código anterior en el archivo.
-
-    Modifica los enlaces e identificadores:
-
-        Cambia TU_USUARIO_AQUI por tu nombre de usuario de GitHub.
-
-        Cambia TU_PERFIL_LINKEDIN por tu slug de LinkedIn.
-
-        Cambia tuemail@ejemplo.com por tu correo real.
